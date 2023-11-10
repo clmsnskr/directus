@@ -95,7 +95,7 @@
 		"@vue/eslint-config-typescript": "^5.1.0",
 		"@vue/test-utils": "^1.1.0",
 		"autoprefixer": "^9.8.5",
-		"axios": "^0.21.0",
+		"axios": "^1.6.0",
 		"babel-loader": "^8.2.1",
 		"babel-preset-vue": "^2.0.2",
 		"base-64": "^1.0.0",
